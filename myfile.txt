@@ -1,1 +1,2 @@
-cool contents!
+cool contents! 
+Hello world! Codeday is cool!
